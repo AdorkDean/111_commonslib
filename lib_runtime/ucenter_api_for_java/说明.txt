@@ -1,0 +1,8 @@
+discuz-ucenter_api_for_java_src.zip  源文件。 
+
+discuz-ucenter_api_for_java.jar  以发布好的JAR文件，可以直接放到你的lib目录下  
+
+discuz_ucenter_api_for_java.zip  源码以及所需要库文件  
+
+
+来源网址：http://code.google.com/p/discuz-ucenter-api-for-java/ 
